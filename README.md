@@ -1,5 +1,7 @@
 # Stock API libjs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/stock-api-libjs.svg)](https://greenkeeper.io/)
+
 ## Overview
 This is a Javascript implementation of the various APIs provided by the Stock services.
 
